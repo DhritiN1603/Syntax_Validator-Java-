@@ -1,5 +1,6 @@
 from lexer import lexer
 from parser1 import parser
+import random
 
  # we know the file exists , so goes into try block , once error encontered goes to except block 
 
